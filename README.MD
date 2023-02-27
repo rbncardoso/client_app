@@ -56,7 +56,7 @@ MIT
 
 ## Used 
 
-- **Express.js
-- **MongoDB
-- **Material UI 
-- **TypeScript
+- **Express.js**
+- **MongoDB**
+- **Material UI** 
+- **TypeScript**
